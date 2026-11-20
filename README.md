@@ -74,7 +74,7 @@ If you use the perforated version for desiccant, keep it out of BB duty: the hol
 
 ### As printed
 
-These photos show the perforated version printed with the default settings in Sunlu High Speed Matte PETG, filled with 4.5 mm copper-plated steel BBs.
+These photos show the perforated version printed with the default settings, at 100% infill, in Sunlu High Speed Matte PETG, filled with 4.5 mm copper-plated steel BBs. Even perforated, the jar can't be visibly deformed by squeezing it with a grip that can exceed 100 lb.
 
 | Closed | Filled to the mouth |
 |---|---|
