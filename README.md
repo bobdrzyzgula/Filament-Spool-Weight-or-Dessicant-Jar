@@ -72,6 +72,16 @@ Pour in BBs (or desiccant), screw the lid down until it seats on the shoulder, a
 
 If you use the perforated version for desiccant, keep it out of BB duty: the holes weaken the wall.
 
+### As printed
+
+These photos show the perforated version printed with the default settings in Sunlu High Speed Matte PETG, filled with 4.5 mm copper-plated steel BBs.
+
+| Closed | Filled to the mouth |
+|---|---|
+| ![Printed jar, closed](images/printed_closed.jpg) | ![Printed jar, open and filled with BBs](images/printed_open_bbs.jpg) |
+
+Filled to the mouth with the lid on, the jar weighed 495 g. Subtracting the printed jar and lid (about 65 g, estimated from the model's volume and PETG's density) leaves about 430 g of BBs. That's within 1% of the 427 g the model predicts.
+
 ### Drop testing
 
 A jar printed from this design in Sunlu High Speed Matte PETG (with freshly calibrated filament settings) survived a 2 ft drop onto a concrete floor. The design is intended to survive about 4 ft, but that has not been tested.
