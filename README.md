@@ -74,7 +74,7 @@ If you use the perforated version for desiccant, keep it out of BB duty: the hol
 
 ### Drop testing
 
-A jar printed from this design survived a 2 ft drop onto a concrete floor. The design is intended to survive about 4 ft, but that has not been tested.
+A jar printed from this design in Sunlu High Speed Matte PETG (with freshly calibrated filament settings) survived a 2 ft drop onto a concrete floor. The design is intended to survive about 4 ft, but that has not been tested.
 
 ## Credits
 
